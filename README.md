@@ -5,6 +5,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/p8p3bndotyknv7rk/branch/master?svg=true)](https://ci.appveyor.com/project/ObjectivityAdminsTeam/test-automation/branch/master)
 [![Build status](https://ci.appveyor.com/api/projects/status/p8p3bndotyknv7rk?svg=true)](https://ci.appveyor.com/project/ObjectivityAdminsTeam/test-automation)
+[![Coverage Status](https://img.shields.io/coveralls/github/ObjectivityLtd/Test.Automation.svg)](https://coveralls.io/github/ObjectivityLtd/Test.Automation)
+[![AppVeyor tests](https://img.shields.io/appveyor/tests/ObjectivityAdminsTeam/test-automation.svg)](https://ci.appveyor.com/project/ObjectivityAdminsTeam/test-automation/build/tests)
 [![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=TmV0eWg4WElNTVBER2M2YWZSYVc2UjFCS2tJWjV4TUEwOFFpb0FXdGZVND0tLTJqRkVubVhnQWd2NHlISkFnMlBsM0E9PQ==--f3a8ace2e27c1ddf49487dd172e969dcacef037d)](https://www.browserstack.com/automate/public-build/TmV0eWg4WElNTVBER2M2YWZSYVc2UjFCS2tJWjV4TUEwOFFpb0FXdGZVND0tLTJqRkVubVhnQWd2NHlISkFnMlBsM0E9PQ==--f3a8ace2e27c1ddf49487dd172e969dcacef037d)
 
 Test Framework was designed in Objectivity to propose common way how people should create Selenium WebDriver tests.
@@ -117,7 +119,7 @@ namespace Objectivity.Test.Automation.Tests.PageObjects.PageObjects.TheInternet
 - See [Getting started](https://github.com/ObjectivityLtd/Test.Automation/wiki/Getting%20started).
 
 Checkout the code or get it from [nuget.org](https://www.nuget.org/packages?q=Objectivity.Test.Automation.Common)
-- Objectivity.Test.Automation.Common.NUnit [![NuGet Package](https://img.shields.io/nuget/v/Objectivity.Test.Automation.Common.NUnit.svg)](https://www.nuget.org/packages/Objectivity.Test.Automation.Common.NUnit/)
-- Objectivity.Test.Automation.Common.Features [![NuGet Package](https://img.shields.io/nuget/v/Objectivity.Test.Automation.Common.Features.svg)](https://www.nuget.org/packages/Objectivity.Test.Automation.Common.Features/)
-- Objectivity.Test.Automation.Common.MsTest [![NuGet Package](https://img.shields.io/nuget/v/Objectivity.Test.Automation.Common.MsTest.svg)](https://www.nuget.org/packages/Objectivity.Test.Automation.Common.MsTest/)
-- Objectivity.Test.Automation.Common.xUnit [![NuGet Package](https://img.shields.io/nuget/v/Objectivity.Test.Automation.Common.xUnit.svg)](https://www.nuget.org/packages/Objectivity.Test.Automation.Common.xUnit/)
+- Objectivity.Test.Automation.Common.NUnit [![NuGet Badge](https://buildstats.info/nuget/Objectivity.Test.Automation.Common.NUnit)](https://www.nuget.org/packages/Objectivity.Test.Automation.Common.NUnit/)
+- Objectivity.Test.Automation.Common.Features [![NuGet Badge](https://buildstats.info/nuget/Objectivity.Test.Automation.Common.Features)](https://www.nuget.org/packages/Objectivity.Test.Automation.Common.Features/)
+- Objectivity.Test.Automation.Common.MsTest [![NuGet Badge](https://buildstats.info/nuget/Objectivity.Test.Automation.Common.MsTest)](https://www.nuget.org/packages/Objectivity.Test.Automation.Common.MsTest/)
+- Objectivity.Test.Automation.Common.xUnit [![NuGet Badge](https://buildstats.info/nuget/Objectivity.Test.Automation.Common.xUnit)](https://www.nuget.org/packages/Objectivity.Test.Automation.Common.xUnit/)
